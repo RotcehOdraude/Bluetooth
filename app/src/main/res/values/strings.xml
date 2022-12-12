@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bluetooth</string>
+    <string name="hacer_visible">hacer visible</string>
+    <string name="buscar_dispositivos">buscar dispositivos</string>
+    <string name="dispositivos_descubiertos_toque_para_conectar">dispositivos descubiertos toque para conectar</string>
+    <string name="poner_el_mensaje_aqui">poner el mensaje aquí</string>
+    <string name="mandar">mandar</string>
+    <string name="mensaje_para_enviar_al_dispositivo_seleccionado">mensaje para enviar al dispositivo seleccionado</string>
+</resources>
